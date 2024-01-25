@@ -2,7 +2,7 @@ answer = 2 + 5
 print(answer * 1000)
 
 ###############################################################################
-# TODO: 1. (1 pt)
+# DONE: 1. (1 pt)
 #   Read the 2 lines of code ABOVE this _TODO_.  That code:
 #     1. Computes 2 plus 5, yielding the object that is
 #          the integer 7.
@@ -27,6 +27,9 @@ print(answer * 1000)
 
 ###############################################################################
 # TODO: 2. (1 pt)
+print :77 - 13/2
+print:77 - (13/2)
+print:(77 - 13)/2
 #   Immediately below this _TODO_, write code that:
 #     - Computes 77 minus the division between 13 and 2.
 #         - Do this in three ways:
