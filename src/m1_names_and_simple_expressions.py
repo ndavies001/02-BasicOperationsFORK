@@ -50,7 +50,7 @@ print: ( 77 - 13 ) / 2
 ###############################################################################
 # DONE: 3. (1 pt)
 answer5 = 5 ** 2
-print: 5 ** 2
+print (5 ** 2)
 #   Immediately below this _TODO_, write code that:
 #     - Computes 5 to the 2nd power (HINT: use  **  as the operator)
 #     - Stores the result to a name of your choosing
@@ -61,8 +61,8 @@ print: 5 ** 2
 ###############################################################################
 # DONE: 4. (1 pt)
 result = (7 / 2)
-print: (7 // 2)
-print: 7 % 2
+print (7 // 2)
+print (7 % 2)
 #   Immediately below this _TODO_, write code that:
 #     - Computes 7 divided by 2 and stores the result to the name  result  .
 #     - Computes just the quotient of 7 divided by 2 (HINT: use  //  as the 
