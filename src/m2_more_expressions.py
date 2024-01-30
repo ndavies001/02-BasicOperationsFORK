@@ -1,7 +1,7 @@
 import math
-
+print(math.sqrt(81))
 ###############################################################################
-# TODO: 1. (2 pts)
+# DONE: 1. (2 pts)
 #   Notice the line of code above.
 #   
 #   We can actually get the help from other modules (libraries) to do certain 
@@ -21,7 +21,8 @@ import math
 ###############################################################################
 
 ###############################################################################
-# TODO: 2. (1 pt)
+# DONE: 2. (1 pt)
+print (math.sqrt(2) and 2**.5)
 #   Immediately below this _TODO_,
 #   write code that computes the square root of 2 in two ways:
 #     - By using the   math.sqrt   function.
@@ -32,6 +33,7 @@ import math
 
 ###############################################################################
 # TODO: 3. (2 pts)
+print (math.sqrt(41*88) + 4 * math.cos(2))
 #   Immediately below this _TODO_, write code that computes and prints:
 #      the square root of ((41 * 88) + (4 * the cosine of 2))
 #   Use as few or as many intermediate names as you feel appropriate.
